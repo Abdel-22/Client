@@ -62,6 +62,13 @@
       "prenom": "Adama",
       "societe": "Adama Coiffure",
       "ca": 745654
+    },
+    {
+      "id": 10,
+      "nom": "Zhang",
+      "prenom": "Lee",
+      "societe": "China-Town",
+      "ca": 231314
     }
   ]
 }
